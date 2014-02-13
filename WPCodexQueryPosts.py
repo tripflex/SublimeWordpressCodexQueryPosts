@@ -1,5 +1,12 @@
-# written by Matthias Krok (www.welovewordpress.de)
-# based on Stackoverflow Search Plugin by Eric Martel (emartel@gmail.com / www.ericmartel.com)
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Author: Myles McNamara, Matthias Krok, Eric Martel
+# @Date:   2014-02-13 01:16:04
+# @Last Modified by:   Myles McNamara
+# @Last Modified time: 2014-02-13 01:26:15
+# @Author URL: http://smyl.es
+# @Plugin URL: https://github.com/tripflex/SublimeWordpressCodexQueryPosts
+# @License: GPL 3+
 
 # available commands
 #   wordpress_codex_open_selection
@@ -8,11 +15,11 @@
 
 import sublime
 import sublime_plugin
-
 import subprocess
+import webbrowser
 
 def OpenInBrowser(url):
-    sublime.active_window().run_command('open_url', {"url": url})
+    webbrowser.open_new_tab(url)
 
 def SearchWpCodexFor(text):
     url = 'http://wordpress.org/search/' + text.replace(' ','%20')
