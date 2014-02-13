@@ -18,7 +18,15 @@
                     {
                         "command": "wordpress_codex_search_from_input",
                         "caption": "Search From Input"
-                    },
+                    }
+                ]
+            },
+            {
+                "caption": "QueryPosts",
+                "mnemonic": "f",
+                "id": "wordpress_codex",
+                "children":
+                [
                     {
                         "command": "query_posts_search_selection",
                         "caption": "Search Selection"
@@ -32,3 +40,4 @@
         ]
     }
 ]
+
