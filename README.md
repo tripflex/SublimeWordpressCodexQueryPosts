@@ -4,8 +4,6 @@
 --- | --- | ---
 ![QueryPosts](https://smyl.es/img/Selection-1147x821-55.png) | ![Wordpress Codex](https://smyl.es/img/Selection-963x951-56.png) | ![Sublime Text 3](https://smyl.es/img/spacegray.png)
 
-#### [Sublime Text 3](http://www.sublimetext.com/3)
-
 ### Description
 This Sublime Text 3 plugin will allow you to search either Wordpress Codex or QueryPosts.com to quickly lookup Wordpress functions, filters, etc.
 
@@ -21,7 +19,7 @@ CTRL + SHIFT + P and type `Codex`, `Query`, or right click on any function and y
 
 Right Click Menu | Tools Menu | Command Menu
 --- | --- | ---
-![Right Click Menu](https://smyl.es/img/rightclickstwp.png) | ![Tools Menu](https://smyl.es/img/rightclickstwp.png) | ![Command Menu](https://smyl.es/img/wpcommand.png)
+![Right Click Menu](https://smyl.es/img/rightclickstwp.png) | ![Tools Menu](https://smyl.es/img/stwptoolsmenu.png) | ![Command Menu](https://smyl.es/img/wpcommand.png)
 
 ## Install
 
