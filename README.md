@@ -1,29 +1,28 @@
-# Search WordPress Codex
-#### [Sublime Text 2](http://www.sublimetext.com/2)
+## Wordpress Codex and QueryPosts Sublime Text 3 Plugin
 
-## About
-This is a Sublime Text 2 plugin allowing you to easily search the WordPress Codex. 
+[QueryPosts](http://www.queryposts.com) | [Wordpress Codex](http://codex.wordpress.org/) | [Sublime Text 3](http://www.sublimetext.com/3)
+--- | --- | ---
+![QueryPosts](https://smyl.es/img/Selection-1147x821-55.png) | ![Wordpress Codex](https://smyl.es/img/Selection-963x951-56.png) | ![Sublime Text 3](https://smyl.es/img/spacegray.png)
 
-Most of all it let's you right-click on any WordPress function and select 'WordPress Function Reference' to open the Codex page for *this* function.
+#### [Sublime Text 3](http://www.sublimetext.com/3)
 
-The plugin code is based on the [Stackoverflow Plugin](https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin) script by Eric Martel.
+### Description
+This Sublime Text 3 plugin will allow you to search either Wordpress Codex or QueryPosts.com to quickly lookup Wordpress functions, filters, etc.
+
+Most of all it let's you right-click on any WordPress function and select **WordPress Codex** or **QueryPosts** to open the page for *this* function.
+
+### Original Sources
+[Stackoverflow Plugin](https://github.com/ericmartel/Sublime-Text-2-Stackoverflow-Plugin) script by Eric Martel.
+
+[ST2 Wordpress Codex Plugin](https://github.com/welovewordpress/SublimeWordPressCodex) script by Matthias Krok.
 
 ## Usage
-ctrl + shift + P and type `WordPress Codex`, or right click on any function and select 'WordPress Function Reference'.
+CTRL + SHIFT + P and type `Codex`, `Query`, or right click on any function and you can select from **QueryPosts** or **Wordpress Codex**.  You can also highlight any term to search on either site, and sublime text will even prompt you for a search term if that suits your fancy :)
 
-You can also select 'WordPress Codex Search' to search tje whole codex for the selected text.
+Right Click Menu | Tools Menu | Command Menu
+--- | --- | ---
+![Right Click Menu](https://smyl.es/img/rightclickstwp.png) | ![Tools Menu](https://smyl.es/img/rightclickstwp.png) | ![Command Menu](https://smyl.es/img/wpcommand.png)
 
 ## Install
 
-### Package Control
-
-The easiest way to install this is with [Package Control](http://wbond.net/sublime\_packages/package\_control).
-
- * If you just went and installed Package Control, you probably need to restart Sublime Text 2 before doing this next bit.
- * Bring up the Command Palette (Command+Shift+p on OS X, Control+Shift+p on Linux/Windows).
- * Select "Package Control: Install Package" (it'll take a few seconds)
- * Select WordPress Codex when the list appears.
-
-Package Control will automatically keep Git up to date with the latest version.
-
-If you have some problems or improvements with it, contact me via GitHub.
+Manual install is currently required, but hopefully soon will be added to Package Control
