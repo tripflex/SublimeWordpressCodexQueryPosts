@@ -23,4 +23,4 @@ Right Click Menu | Tools Menu | Command Menu
 
 ## Install
 
-Manual install is currently required, but hopefully soon will be added to Package Control
+Plugin is now listed on the Sublime Text repository (https://sublime.wbond.net/) for easy install
