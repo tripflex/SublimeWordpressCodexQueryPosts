@@ -22,7 +22,7 @@ def OpenInBrowser(url):
     webbrowser.open_new_tab(url)
 
 def SearchWpCodexFor(text):
-    url = 'http://wordpress.org/search/' + text.replace(' ','%20')
+    url = 'http://developer.wordpress.org/?s=' + text.replace(' ','%20')
     OpenInBrowser(url)
 
 def SearchQPFor(text):
