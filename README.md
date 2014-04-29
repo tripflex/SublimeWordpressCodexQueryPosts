@@ -1,5 +1,15 @@
 ## Wordpress Codex and QueryPosts Sublime Text 3 Plugin
 
+**I RECOMMEND** using the new plugin `Wordpress Developer Resources` that is available on the Sublime Text repository over this version.  QueryPosts is not really used anymore, and with the new developer.wordpress.org coming online all continued development will be under that project.
+
+I suggest removing this plugin and installing the Wordpress Developer Resources plugin:
+
+https://sublime.wbond.net/packages/WordPress%20Developer%20Resources
+
+https://github.com/tripflex/sublime-wp-developer-resources
+
+Again, **THIS PLUGIN IS NO LONGER UNDER DEVELOPMENT** and will no longer be updated.  Switch to the Wordpress Developer Resources plugin to benefit from updates and future development.
+
 [QueryPosts](http://www.queryposts.com) | [Wordpress Codex](http://codex.wordpress.org/) | [Sublime Text 3](http://www.sublimetext.com/3)
 --- | --- | ---
 ![QueryPosts](https://smyl.es/img/Selection-1147x821-55.png) | ![Wordpress Codex](https://smyl.es/img/Selection-963x951-56.png) | ![Sublime Text 3](https://smyl.es/img/spacegray.png)
